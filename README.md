@@ -1,2 +1,3 @@
-# submittly_GSOC_2021
+# submittly
+
 personal project
